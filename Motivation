@@ -1,0 +1,13 @@
+As an undergrad, one of my favorite classes was Experimental Physics. The class was taught by Mark Yuly and explored the past 100 years of nuclear physics by experimentation. It inspired, in me, a fascination with the shift from classical to quantum mechanics. Given that the latter is frequently discussed but rarely understood, I wanted to create a path for anyone interested in quantum theories to gain a foothold without dedicating several years to studying physics.
+
+This is, admittedly, in part due to a frustration with the loud and incorrect pronouncements of non-physicists about philosophical meanings behind quantum theories. Rather than shut myself away, I want to give those interested a way to pursue the marrow of the universe. I find the most inviting way to do this for those without a deep mathematical background is through a historical perspective.
+
+Guidance for this path came from two other undergrad classes - Modern Physics and Science Honors World History. Modern focussed entirely on the period that fascinated me. The history course laid out world events as lines paralleling or connecting the scientific discoveries of that age.
+
+The idea for a course or book guiding a novice through the recent history of physics sat in my mind for a year or two and was resurfaced during my first year as a graduate student. Teaching a workshop for undergraduate Modern Physics, I came upon this problem:
+
+Electromagnetic radiation is emitted by accelerating charges. The rate at which energy is emitted from an accelerating charge that has charge q and acceleration a is given by
+dE/dt = (q^2 a^2)/(6pi epsilon_naught c^3)
+Consider the classical hydrogen atom - the circular orbit of an electron with a kinetic energy of 13.6 eV at a radius of 0.0529 nm. How much energy would this radiate per second? What does this tell you about the viability of classical mechanics for describing the hydrogen atom?
+
+These are fantastic questions that pivot cleanly from a classical to quantum mechanical understanding of the world. They point at the issues of classical mechanics and demand that they be fixed. The physics leading up to the question and radiating from it offer a great number of opportunities for students to problem solve and think as scientists. That, and a basic understanding of quantum mechanics, are the goals of this course.
