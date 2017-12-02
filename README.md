@@ -2,11 +2,11 @@
 
 ### Chapter 00
 # Introduction
-This is the introduction.
+...
 
 ### Chapter 01
 # How do we map the Universe?
-How do we begin 
+I know there is a classroom below the library in the Physics building at the University of Rochester. I have heard footsteps above me during lectures and the respective room numbers are the same apart from the first digit. To really test my prediction, I would need a jackhammer and a lack of empathy for the building maintenance staff.
 
 ### Chapter 02
 # Who mapped out the particles in the Universe?

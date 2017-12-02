@@ -16,8 +16,9 @@ def dir_to_markdown(chapter):
     main = open(chapter +'/main.txt')
     formatted_ch = '\n\n### ' +chapter.split(':')[0]
     formatted_ch += '\n#' +chapter.split(':')[1]
-    for line in main: 
-        formatted_ch += '\n' +line
+    for line in main:
+        if '***' not in line: 
+            formatted_ch += '\n' +line
     # Need to figure out how to handle images and equations when the time comes
     return formatted_ch
 
