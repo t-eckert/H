@@ -14,7 +14,7 @@ OUTPUT = ''
 def write_toc(chapters):
     str_out = '# Table of Contents \n\n'
     for chapter in chapters:
-        tag = chapter.replace(' ','')
+        tag = chapter.split(':')[0].replace(' ','-')
         str_out += '- [' +chapter +'](#' +tag +')  \n'
     str_out += '\n'
     return str_out
@@ -22,7 +22,7 @@ def write_toc(chapters):
 def dir_to_markdown(chapter):
     '''Returns a chapter in Markdown format.'''
     main = open(chapter +'/main.txt')
-    tag = chapter.replace(' ','')
+    tag = chapter.split(':')[0].replace(' ','-')
     anchor = '<a name="' +tag +'"></a>'
     formatted_ch = '\n\n### ' +anchor +chapter.split(':')[0] 
     formatted_ch += '\n#' +chapter.split(':')[1]
