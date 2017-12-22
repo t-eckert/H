@@ -12,7 +12,7 @@ README = open('README.md','w')
 OUTPUT = ''
 
 def write_toc(chapters):
-    str_out = '# Table of Contents \n\n'
+    str_out = '## Table of Contents \n\n'
     for chapter in chapters:
         tag = chapter.split(':')[0].replace(' ','-')
         str_out += '- [' +chapter +'](#' +tag +')  \n'

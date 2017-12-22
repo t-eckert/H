@@ -1,6 +1,6 @@
 # Exploring the Universe Through Hydrogen: A Beginners Guide to Physics
 ![Hydrogen Cover](HydrogenCover.png) 
-# Table of Contents 
+## Table of Contents 
 
 - [Chapter 00: Introduction](#Chapter-00)  
 - [Chapter 01: How do we map the Universe?](#Chapter-01)  
