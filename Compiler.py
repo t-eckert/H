@@ -24,7 +24,7 @@ def dir_to_markdown(chapter):
     main = open(chapter +'/main.txt')
     tag = chapter.split(':')[0].replace(' ','-')
     anchor = '<a name="' +tag +'"></a>'
-    formatted_ch = '\n\n### ' +anchor +chapter.split(':')[0] 
+    formatted_ch = '\n\n#### ' +anchor +chapter.split(':')[0] 
     formatted_ch += '\n##' +chapter.split(':')[1]
     for line in main:
         if '***' not in line: 
