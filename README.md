@@ -1,4 +1,5 @@
-# Exploring the Universe Through Hydrogen: A Beginners Guide to Physics
+# Exploring the Universe Through Hydrogen
+### A Beginners Guide to Physics
 ![Hydrogen Cover](HydrogenCover.png) 
 ## Table of Contents 
 

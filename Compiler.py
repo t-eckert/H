@@ -32,7 +32,8 @@ def dir_to_markdown(chapter):
     # Need to figure out how to handle images and equations when the time comes
     return formatted_ch
 
-README.write('# Exploring the Universe Through Hydrogen: A Beginners Guide to Physics\n')
+README.write('# Exploring the Universe Through Hydrogen\n')
+README.write('### A Beginners Guide to Physics\n')
 README.write('![Hydrogen Cover](HydrogenCover.png) \n')
 README.write(write_toc(CHAPTERS))
 
