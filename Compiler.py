@@ -33,6 +33,7 @@ def dir_to_markdown(chapter):
     return formatted_ch
 
 README.write(write_toc(CHAPTERS))
+README.write('![Hydrogen Cover](HydrogenCover.png)')
 
 for chapter in CHAPTERS:
     OUTPUT += dir_to_markdown(chapter)
